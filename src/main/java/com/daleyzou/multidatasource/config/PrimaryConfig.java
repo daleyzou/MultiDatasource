@@ -19,7 +19,7 @@ import java.util.Map;
 
 /**
  * PrimaryConfig
- * @description TODO
+ * @description 默认的主数据源
  * @author daleyzou
  * @date 2020年10月12日 19:46
  * @version 1.4.8
